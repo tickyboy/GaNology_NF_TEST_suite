@@ -14,5 +14,5 @@ if __name__ == '__main__':
     #Measure_DUT_Spara(1, 5, 0.5, 6, 0.04, 'NO1RS_9F')
     #Display_stability_area(fre, file_dut)
     #Tuner_ScanRegion('1', fre, region, file_dut)
-    Show_NF_smith(file_nf, 2, 0.2, 9, 15)
+    #Show_NF_smith(file_nf, 2, 0.2, 9, 15)
     
